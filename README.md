@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mattlopez7
+- 👀 I’m interested in robots, virtual/augmented reality, electric cars, IOS app development and artificial intelligence
+- 🌱 I’m studying Computer Science & Engineering at the University of Nevada, Reno
+- 💞️ I’m looking to collaborate on brain machine interfaces for virtual reality applications
+- 📫 Reach me at matthew.lopez7a@gmail.com
